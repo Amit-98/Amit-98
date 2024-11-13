@@ -43,4 +43,4 @@ I'm a passionate **Backend Developer** with expertise in **Node.js**, **MySQL**,
 ![](https://komarev.com/ghpvc/?username=amit-98&style=flat-square&color=blue)
 
 <!-- Footer -->
-⭐️ From [Your Username](https://github.com/amit-98)
+⭐️ From [Amit-98](https://github.com/amit-98)
