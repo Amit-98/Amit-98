@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Hi there, I'm Amit Yadav! 👋
+# Hi 👋 there, I'm Amit Yadav! 
 
 <!-- Introduction -->
 I'm a passionate **Backend Developer** with expertise in **Node.js**, **MySQL**, **MongoDB**, and **PostgreSQL**. I love creating efficient and scalable backend solutions and continuously learning about new technologies in the web development ecosystem.
