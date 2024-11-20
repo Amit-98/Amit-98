@@ -2,7 +2,10 @@
 # Hi 👋 there, I'm Amit Yadav! 
 
 <!-- Introduction -->
-I'm a passionate **Backend Developer** with expertise in **Node.js**, **MySQL**, **MongoDB**, and **PostgreSQL**. I love creating efficient and scalable backend solutions and continuously learning about new technologies in the web development ecosystem.
+<div align="center">
+  <h1>🛠️ Welcome to My Digital Workshop 🛠️</h1>
+</div>
+I'm a passionate **Backend Developer** focused on building scalable and efficient server-side applications. Always exploring new technologies while maintaining rock-solid performance.💻
 
 <!-- About Me -->
 ### 👨‍💻 About Me
