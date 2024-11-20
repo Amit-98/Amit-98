@@ -1,11 +1,10 @@
-<!-- Greeting -->
-# Hi 👋 there, I'm Amit Yadav! 
-
-<!-- Introduction -->
 <div align="center">
   <h1>🛠️ Welcome to My Digital Workshop 🛠️</h1>
 </div>
-I'm a passionate **Backend Developer** focused on building scalable and efficient server-side applications. Always exploring new technologies while maintaining rock-solid performance.💻
+<!-- Greeting -->
+# Hi 👋 there, I'm Amit Yadav! 
+<!-- Introduction -->
+<p>I'm a passionate **Backend Developer** focused on building scalable and efficient server-side applications. Always exploring new technologies while maintaining rock-solid performance.💻</p>
 
 <!-- About Me -->
 ### 👨‍💻 About Me
