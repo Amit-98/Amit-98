@@ -1,7 +1,7 @@
 <!-- Greeting -->
 # Hi 👋 there, I'm Amit Yadav! 
 <!-- Introduction -->
-<p>I'm a passionate **Backend Developer** focused on building scalable and efficient server-side applications. Always exploring new technologies while maintaining rock-solid performance.💻</p>
+I'm a passionate **Backend Developer** focused on building scalable and efficient server-side applications. Always exploring new technologies while maintaining rock-solid performance.💻
 
 <!-- About Me -->
 ### 👨‍💻 About Me
