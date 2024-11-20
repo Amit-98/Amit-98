@@ -5,13 +5,12 @@ I'm a passionate **Backend Developer** focused on building scalable and efficien
 
 <!-- About Me -->
 ### 👨‍💻 About Me
-- 💼 Currently working as a **Backend Developer** (Node.js, Express.js, MySQL, MongoDB, PostgreSQL)
-- 🌱 Currently exploring **Frontend Development** and **microservices architecture**
-- 🛠️ Recent project: An E-Commerce app with **Node.js**, **Express.js**, **JWT** for authentication, and **Joi** for validation, and database as **MySQL**
-- 💬 Ask me about anything related to **Backend Development**
-- 🌐 [Portfolio](https://your-portfolio-link.com) | 📫 [Email](mailto:amit.ay151@gmail.com)
+💼 Currently working as a **Backend Developer** (Node.js, Express.js, MySQL, MongoDB, PostgreSQL)
+🌱 Currently exploring **Frontend Development** and **microservices architecture**
+🛠️ Recent project: An E-Commerce app with **Node.js**, **Express.js**, **JWT** for authentication, and **Joi** for validation
+💬 Ask me about anything related to **Backend Development**
+🌐 [Portfolio](https://your-portfolio-link.com) | 📫 [Email](mailto:amit.ay151@gmail.com)
 
-<!-- Tech Stack -->
 <!-- Tech Stack -->
 ### ⚙️ Tech Stack
 
