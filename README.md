@@ -1,6 +1,3 @@
-<div align="center">
-  <h1>🛠️ Welcome to My Digital Workshop 🛠️</h1>
-</div>
 <!-- Greeting -->
 # Hi 👋 there, I'm Amit Yadav! 
 <!-- Introduction -->
