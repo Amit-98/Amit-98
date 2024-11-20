@@ -52,4 +52,4 @@ I'm a passionate **Backend Developer** focused on building scalable and efficien
 ![](https://komarev.com/ghpvc/?username=amit-98&style=flat-square&color=blue)
 
 <!-- Footer -->
-⭐️ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+⭐️ <img height="120" alt="Thanks for visiting me" width="100%"/>
