@@ -44,12 +44,12 @@ I'm a passionate **Backend Developer** focused on building scalable and efficien
 
 <!-- Connect with Me -->
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-98)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-yadav-b00591128)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amit-98)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amit-98)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit-98)
 
 <!-- Profile Visitor Count -->
 ![](https://komarev.com/ghpvc/?username=amit-98&style=flat-square&color=blue)
 
 <!-- Footer -->
-⭐️ From [Amit-98](https://github.com/amit-98)
+⭐️ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
