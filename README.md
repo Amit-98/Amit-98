@@ -5,21 +5,41 @@ I'm a passionate **Backend Developer** focused on building scalable and efficien
 
 <!-- About Me -->
 ### 👨‍💻 About Me
-- 💼 Currently working as a **Backend Developer** (Node.js, MySQL, MongoDB, PostgreSQL)
-- 🌱 Currently exploring **GraphQL** and **microservices architecture**
-- 🛠️ Recent project: An eCommerce app with **Node.js**, **Express.js**, **JWT** for authentication, and **Joi** for validation
+- 💼 Currently working as a **Backend Developer** (Node.js, Express.js, MySQL, MongoDB, PostgreSQL)
+- 🌱 Currently exploring **Frontend Development** and **microservices architecture**
+- 🛠️ Recent project: An E-Commerce app with **Node.js**, **Express.js**, **JWT** for authentication, and **Joi** for validation, and database as **MySQL**
 - 💬 Ask me about anything related to **Backend Development**
 - 🌐 [Portfolio](https://your-portfolio-link.com) | 📫 [Email](mailto:amit.ay151@gmail.com)
 
 <!-- Tech Stack -->
+<!-- Tech Stack -->
 ### ⚙️ Tech Stack
+
+#### 💻 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🔒 Web Security
+![HTTPS](https://img.shields.io/badge/HTTPS-FF5C5C?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-006600?style=for-the-badge&logo=internet-security&logoColor=white)
+![SHA](https://img.shields.io/badge/SHA-FF6B6B?style=for-the-badge&logo=hash&logoColor=white)
+![MD5](https://img.shields.io/badge/MD5-5C2D91?style=for-the-badge&logo=hash&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-000000?style=for-the-badge&logo=cors&logoColor=white)
+
+#### 🚀 Caching & Performance
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Memcached](https://img.shields.io/badge/Memcached-1982C4?style=for-the-badge&logo=memcached&logoColor=white)
+
+#### 🔑 Authentication & Authorization
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Token Auth](https://img.shields.io/badge/Token%20Authentication-4B32C3?style=for-the-badge&logo=auth0&logoColor=white)
+
+#### 📊 Database Scaling
+![Database Indexes](https://img.shields.io/badge/Database%20Indexes-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![Data Replication](https://img.shields.io/badge/Data%20Replication-6B4FBB?style=for-the-badge&logo=database&logoColor=white)
 
 <!-- GitHub Stats -->
 ### 📈 GitHub Stats
