@@ -9,7 +9,7 @@ I'm a passionate **Backend Developer** focused on building scalable and efficien
 🌱 Currently exploring **Frontend Development** and **microservices architecture**<br>
 🛠️ Recent project: An E-Commerce app with **Node.js**, **Express.js**, **JWT** for authentication, and **Joi** for validation<br>
 💬 Ask me about anything related to **Backend Development**<br>
-🌐 [Portfolio](https://your-portfolio-link.com) | 📫 [Email](mailto:amit.ay151@gmail.com)<br>
+🌐 [Portfolio](https://amit-y.netlify.app) | 📫 [Email](mailto:amit.ay151@gmail.com)<br>
 
 <!-- Tech Stack -->
 ### ⚙️ Tech Stack
@@ -39,7 +39,7 @@ I'm a passionate **Backend Developer** focused on building scalable and efficien
 <!-- Recent Projects -->
 ### 🚀 Recent Projects
 - **[eCommerce Project](https://github.com/amit-98/ecommerce-project)** - Built with Node.js, Express.js, and MongoDB, featuring JWT for user authentication.
-- **[Portfolio Site](https://github.com/amit-98/portfolio-site)** - A personal website built using HTML, CSS, and JavaScript.
+- **[Portfolio Site](https://amit-y.netlify.app)** - A personal website built using HTML, CSS, and JavaScript.
 - **[Blog API](https://github.com/amit-98/blog-api)** - A RESTful API for a blogging platform using Express.js and PostgreSQL.
 
 <!-- Connect with Me -->
